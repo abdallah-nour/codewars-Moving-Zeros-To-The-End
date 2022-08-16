@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "nodemon",
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "dependencies": {
     "chai": "^4.3.6",
